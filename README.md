@@ -51,15 +51,24 @@ Server software allows us to host dedicated servers for a large number of users.
 Direct modifications to the vanilla server or the Bukkit API.
 
 - [Airplane](https://airplane.gg/)
+- [Akarin](https://github.com/Akarin-project/Akarin)
 - [Bukkit](https://dev.bukkit.org/)
+- [Empirecraft](https://github.com/starlis/empirecraft)
 - [Glowstone](https://glowstone.net/)
+- [Lithium](https://github.com/CaffeineMC/lithium-fabric)
+- [Origami](https://github.com/Minebench/Origami)
 - [Paper](https://papermc.io/)
 - [Spigot](https://www.spigotmc.org/)
+- [Tic-Tacs](https://github.com/Gegy/tic-tacs)
+- [Yatopia](https://github.com/YatopiaMC/Yatopia)
 
 ### Modded
 
 Servers that allow loading of plugins and mods
 
+- [CatServer](https://catmc.org/)
+- [Loli Server](https://github.com/Loli-Server/LoliServer1.16)
+- [Magma](https://magmafoundation.org/)
 - [Mohist](https://mohistmc.com/)
 - [Sponge](https://www.spongepowered.org/)
 
@@ -70,6 +79,7 @@ Reverse proxies or load balancers designed to make the infrastructure of a serve
 - [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)
 - [FlameCord](https://github.com/2lstudios-mc/FlameCord)
 - [GeyserMC](https://github.com/GeyserMC/Geyser)
+- [Hexacord](https://github.com/CronixMC/HexaCord)
 - [Travertine](https://github.com/PaperMC/Travertine)
 - [Velocity](https://velocitypowered.com/)
 - [Waterfall](https://github.com/PaperMC/Waterfall)
