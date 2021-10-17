@@ -6,13 +6,31 @@
 
 ## Index
 
+- [Mods](#mods)
+  - [Clients](#clients)
+  - [Mod Loaders](#mod-loaders)
 - [Server Software](#server-Software)
   - [Forks](#forks)
   - [Modded](#modded)
   - [Proxies](#proxies)
+- [Tools](#tools)
+  - [Development](#development)
 - [Websites](#websites)
   - [Community Markets](#community-markets)
   - [Information](#information)
+  - [Servers List](#servers-list)
+
+## Mods
+
+### Clients
+
+- [Badlion Client](https://client.badlion.net/)
+- [LabyMod](https://www.labymod.net/)
+
+### Mod Loaders
+
+- [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
+- [Liteloader](http://www.liteloader.com/)
 
 ## Server Software
 
@@ -37,6 +55,12 @@
 - [Velocity](https://velocitypowered.com/)
 - [Waterfall](https://github.com/PaperMC/Waterfall)
 
+## Tools
+
+### Developments
+
+- [ModCoderPack](http://www.modcoderpack.com/)
+
 ## Websites
 
 ### Community markets
@@ -48,3 +72,9 @@
 
 - [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
 - [Wiki.vg](https://wiki.vg/Main_Page)
+
+### Servers List
+
+- [40ServidoresMC](http://40servidoresmc.es/)
+- [MinecraftServers](https://minecraftservers.org/)
+- [NameMC](https://namemc.com/)
