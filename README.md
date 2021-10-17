@@ -19,6 +19,7 @@ Contents index, find here easily what you are looking for.
   - [Development](#development)
 - [Websites](#websites)
   - [Community Markets](#community-markets)
+  - [Forums](#forums)
   - [Information](#information)
   - [Servers List](#servers-list)
 
@@ -37,6 +38,7 @@ Minecraft clients are direct modifications of the original game.
 
 Modloaders allow you to modify the game using third-party tools created by the community.
 
+- [Fabric](https://fabricmc.net/)
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Liteloader](http://www.liteloader.com/)
 
@@ -67,6 +69,7 @@ Reverse proxies or load balancers designed to make the infrastructure of a serve
 
 - [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)
 - [FlameCord](https://github.com/2lstudios-mc/FlameCord)
+- [GeyserMC](https://github.com/GeyserMC/Geyser)
 - [Travertine](https://github.com/PaperMC/Travertine)
 - [Velocity](https://velocitypowered.com/)
 - [Waterfall](https://github.com/PaperMC/Waterfall)
@@ -90,13 +93,22 @@ Websites of different types related to Minecraft
 Community market where you can buy resources whether they are plugins, mods or constructions.
 
 - [MCMarket](https://www.mc-market.org/resources/)
+- [Polymart](https://polymart.org/)
 - [SpigotMC](https://www.spigotmc.org/)
+
+### Forums
+
+Forums of various topics and offtopic related to Minecraft
+
+- [MinecraftForums](https://www.minecraftforum.net/)
+- [PlanetMinecraft](https://www.planetminecraft.com/forums/)
 
 ### Information
 
 Websites that host technical and useful information about the game.
 
 - [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
+- [Minecraft Wiki Chinese](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
 - [Wiki.vg](https://wiki.vg/Main_Page)
 
 ### Servers List
