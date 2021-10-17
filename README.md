@@ -6,6 +6,8 @@
 
 ## Index
 
+Contents index, find here easily what you are looking for.
+
 - [Mods](#mods)
   - [Clients](#clients)
   - [Mod Loaders](#mod-loaders)
@@ -22,19 +24,29 @@
 
 ## Mods
 
+Mods or modifications is thus called any modification by the client or game files to add, remove or modify elements of the same.
+
 ### Clients
+
+Minecraft clients are direct modifications of the original game.
 
 - [Badlion Client](https://client.badlion.net/)
 - [LabyMod](https://www.labymod.net/)
 
 ### Mod Loaders
 
+Modloaders allow you to modify the game using third-party tools created by the community.
+
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Liteloader](http://www.liteloader.com/)
 
 ## Server Software
 
+Server software allows us to host dedicated servers for a large number of users. Of these several exist to meet different needs.
+
 ### Forks
+
+Direct modifications to the vanilla server or the Bukkit API.
 
 - [Airplane](https://airplane.gg/)
 - [Bukkit](https://dev.bukkit.org/)
@@ -44,10 +56,14 @@
 
 ### Modded
 
+Servers that allow loading of plugins and mods
+
 - [Mohist](https://mohistmc.com/)
 - [Sponge](https://www.spongepowered.org/)
 
 ### Proxies
+
+Reverse proxies or load balancers designed to make the infrastructure of a server with a large number of users more flexible.
 
 - [BungeeCord](https://www.spigotmc.org/wiki/bungeecord/)
 - [FlameCord](https://github.com/2lstudios-mc/FlameCord)
@@ -57,23 +73,35 @@
 
 ## Tools
 
-### Developments
+Tools of all kinds related to Minecraft
+
+### Development
+
+Specialized tools for understanding and developing game modifications.
 
 - [ModCoderPack](http://www.modcoderpack.com/)
 
 ## Websites
 
+Websites of different types related to Minecraft
+
 ### Community markets
+
+Community market where you can buy resources whether they are plugins, mods or constructions.
 
 - [MCMarket](https://www.mc-market.org/resources/)
 - [SpigotMC](https://www.spigotmc.org/)
 
 ### Information
 
+Websites that host technical and useful information about the game.
+
 - [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
 - [Wiki.vg](https://wiki.vg/Main_Page)
 
 ### Servers List
+
+Server lists, useful to promote your server or discover new servers to play on.
 
 - [40ServidoresMC](http://40servidoresmc.es/)
 - [MinecraftServers](https://minecraftservers.org/)
