@@ -32,7 +32,13 @@ Mods or modifications is thus called any modification by the client or game file
 Minecraft clients are direct modifications of the original game.
 
 - [Badlion Client](https://client.badlion.net/)
+- [Batmod](https://batmod.com/)
+- [CheatBreaker](https://offlinecheatbreaker.com/)
+- [Cosmic Client](https://cosmicclient.com/)
 - [LabyMod](https://www.labymod.net/)
+- [Lunar Client](https://www.lunarclient.com/)
+- [PixelClient](https://www.mediafire.com/file/mo7pzys6699t5z0/PixelClient.zip/file)
+- [PvPLounge](https://pvplounge.com/)
 
 ### Mod Loaders
 
@@ -58,6 +64,7 @@ Direct modifications to the vanilla server or the Bukkit API.
 - [Lithium](https://github.com/CaffeineMC/lithium-fabric)
 - [Origami](https://github.com/Minebench/Origami)
 - [Paper](https://papermc.io/)
+- [Purpur](https://purpur.pl3x.net/)
 - [Spigot](https://www.spigotmc.org/)
 - [Tic-Tacs](https://github.com/Gegy/tic-tacs)
 - [Yatopia](https://github.com/YatopiaMC/Yatopia)
