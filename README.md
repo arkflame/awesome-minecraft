@@ -9,6 +9,7 @@
 Contents index, find here easily what you are looking for.
 
 - [Mods](#mods)
+  - [Launchers](#launchers)
   - [Clients](#clients)
   - [Mod Loaders](#mod-loaders)
 - [Server Software](#server-Software)
@@ -26,6 +27,12 @@ Contents index, find here easily what you are looking for.
 ## Mods
 
 Mods or modifications is thus called any modification by the client or game files to add, remove or modify elements of the same.
+
+### Launchers
+
+Launchers allow us to download and manage our client versions of the game.
+
+- [MultiMC](https://multimc.org/)
 
 ### Clients
 
