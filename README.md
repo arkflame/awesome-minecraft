@@ -11,17 +11,22 @@ Contents index, find here easily what you are looking for.
 - [Mods](#mods)
   - [Launchers](#launchers)
   - [Clients](#clients)
+    - [Other Clients](#other-clients)
   - [Mod Loaders](#mod-loaders)
-- [Server Software](#server-Software)
+- [Server Software](#server-software)
   - [Forks](#forks)
   - [Modded](#modded)
   - [Proxies](#proxies)
+  - [Server Tools](#server-tools)
 - [Tools](#tools)
   - [Development](#development)
+    - [Libraries](#libraries)
+      - [Other Libraries](#other-libraries)
 - [Websites](#websites)
   - [Community Markets](#community-markets)
   - [Forums](#forums)
   - [Information](#information)
+  - [Mod List](#mod-list)
   - [Servers List](#servers-list)
 
 ## Mods
@@ -32,6 +37,7 @@ Mods or modifications is thus called any modification by the client or game file
 
 Launchers allow us to download and manage our client versions of the game.
 
+- [GDLauncher](https://gdlauncher.com/)
 - [MultiMC](https://multimc.org/)
 
 ### Clients
@@ -54,6 +60,13 @@ Modloaders allow you to modify the game using third-party tools created by the c
 - [Fabric](https://fabricmc.net/)
 - [Forge](https://files.minecraftforge.net/net/minecraftforge/forge/)
 - [Liteloader](http://www.liteloader.com/)
+- [Sponge](https://spongepowered.org/) Open source Minecraft modding platform.
+
+### Other Clients
+
+Clients that are not a modification of the original vanilla but a reimplementation either in java or another language.
+
+- [Stevenarella](https://github.com/iceiix/stevenarella) Multi-protocol Minecraft-compatible client written in Rust
 
 ## Server Software
 
@@ -67,8 +80,6 @@ Direct modifications to the vanilla server or the Bukkit API.
 - [Akarin](https://github.com/Akarin-project/Akarin)
 - [Bukkit](https://dev.bukkit.org/)
 - [Empirecraft](https://github.com/starlis/empirecraft)
-- [Glowstone](https://glowstone.net/)
-- [Lithium](https://github.com/CaffeineMC/lithium-fabric)
 - [Origami](https://github.com/Minebench/Origami)
 - [Paper](https://papermc.io/)
 - [Purpur](https://purpur.pl3x.net/)
@@ -94,9 +105,24 @@ Reverse proxies or load balancers designed to make the infrastructure of a serve
 - [FlameCord](https://github.com/2lstudios-mc/FlameCord)
 - [GeyserMC](https://github.com/GeyserMC/Geyser)
 - [Hexacord](https://github.com/CronixMC/HexaCord)
+- [Hopper](https://github.com/BRA1L0R/hopper-rs) Fast, configurable, lightweight Reverse Proxy for Minecraft
 - [Travertine](https://github.com/PaperMC/Travertine)
 - [Velocity](https://velocitypowered.com/)
 - [Waterfall](https://github.com/PaperMC/Waterfall)
+
+### Other Servers
+
+- [Graphite](https://github.com/Moulberry/Graphite) 1.19.1 high-performance Minecraft server
+- [Glowstone](https://glowstone.net/)
+- [Minestom](https://github.com/Minestom/Minestom)
+
+### Server Tools
+
+Tools that help us to better manage a Minecraft server.
+
+- [Docker Minecraft Server](https://github.com/itzg/docker-minecraft-server)
+- [Docket Minecraft Bedrock Server](https://github.com/itzg/docker-minecraft-bedrock-server)
+- [PolyMc](https://github.com/TheEpicBlock/PolyMc) Making minecraft mods compatible with a vanilla client
 
 ## Tools
 
@@ -106,7 +132,24 @@ Tools of all kinds related to Minecraft
 
 Specialized tools for understanding and developing game modifications.
 
+- [MCDev for IntelliJ](https://mcdev.io/) Plugin for IntelliJ IDEA for Minecraft mod development.
+- [Minecraft Data](https://github.com/PrismarineJS/minecraft-data) Language independent module providing minecraft data.
 - [ModCoderPack](http://www.modcoderpack.com/)
+- [Pakkit](https://github.com/Heath123/pakkit) A WIP packet monitor for Minecraft written in Electron.
+
+### Libraries
+
+Libraries are code snippets that help us develop game-related modification tools faster.
+
+### Other Libraries
+
+Libraries not related to the main game, maybe API wrappers or reimplementation in another language or framework.
+
+- [DragonFly](https://github.com/df-mc/dragonfly) Minecraft Bedrock Edition server software written in Go.
+- [FastNBT](https://github.com/owengage/fastnbt) Fast parsing of NBT and Anvil Format with Rust.
+- [Go-MC](https://github.com/Tnze/go-mc) Collection of Go libraries for Minecraft
+- [Mineflayer](https://github.com/PrismarineJS/mineflayer) Create Minecraft bots with a high level JS API.
+- [Valence](https://github.com/valence-rs/valence) A Rust framework for building Minecraft servers.
 
 ## Websites
 
@@ -131,9 +174,17 @@ Forums of various topics and offtopic related to Minecraft
 
 Websites that host technical and useful information about the game.
 
+- [Fabric Wiki](https://fabricmc.net/wiki/start)
 - [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki)
 - [Minecraft Wiki Chinese](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
+- [Mojang API Docs](https://mojang-api-docs.gapple.pw/)
 - [Wiki.vg](https://wiki.vg/Main_Page)
+
+### Mod List
+
+Pages where we can find mods, resource packs, shaders packs and more.
+
+- [Modrinth](https://modrinth.com/)
 
 ### Servers List
 
