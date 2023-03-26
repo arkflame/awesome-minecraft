@@ -78,10 +78,17 @@ Direct modifications to the vanilla server or the Bukkit API.
 
 - [Airplane](https://airplane.gg/)
 - [Akarin](https://github.com/Akarin-project/Akarin)
+- [Andromeda](https://github.com/TeamEarendel/Andromeda)
 - [Bukkit](https://dev.bukkit.org/)
 - [Empirecraft](https://github.com/starlis/empirecraft)
+- [Fusion](https://github.com/RuinedTechnologyUnify/Fusion)
+- [Gale](https://github.com/GaleMC/Gale)
+- [Kaiiju](https://github.com/KaiijuMC/Kaiiju)
+- [Leaf](https://github.com/Winds-Studio/Leaf)
 - [Origami](https://github.com/Minebench/Origami)
 - [Paper](https://papermc.io/)
+- [Plazma](https://github.com/PlazmaMC/Plazma)
+- [Pufferfish](https://github.com/pufferfish-gg/Pufferfish)
 - [Purpur](https://purpur.pl3x.net/)
 - [Spigot](https://www.spigotmc.org/)
 - [Tic-Tacs](https://github.com/Gegy/tic-tacs)
@@ -116,6 +123,7 @@ Reverse proxies or load balancers designed to make the infrastructure of a serve
 - [Graphite](https://github.com/Moulberry/Graphite) 1.19.1 high-performance Minecraft server
 - [Glowstone](https://glowstone.net/)
 - [Minestom](https://github.com/Minestom/Minestom)
+- [Tesseract](https://github.com/valaphee/tesseract)
 
 ### Server Tools
 
