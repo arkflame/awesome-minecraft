@@ -86,6 +86,7 @@ Direct modifications to the vanilla server or the Bukkit API.
 - [Spigot](https://www.spigotmc.org/)
 - [Tic-Tacs](https://github.com/Gegy/tic-tacs)
 - [Yatopia](https://github.com/YatopiaMC/Yatopia)
+- [FlamePaper](https://github.com/2lstudios-mc/FlamePaper)
 
 ### Modded
 
