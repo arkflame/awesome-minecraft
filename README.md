@@ -8,16 +8,24 @@
 
 Contents index, find here easily what you are looking for.
 
+- [Plugins](#plugins)
+  - [Anticheats](#anticheat-plugins)
+  - [Building](#building-plugins)
+  - [Libraries](#library-plugins)
+  - [Permissions](#permission-plugins)
+  - [World](#world-plugins)
 - [Mods](#mods)
   - [Launchers](#launchers)
   - [Clients](#clients)
     - [Other Clients](#other-clients)
   - [Mod Loaders](#mod-loaders)
+  - [Performance Mods](#performance-mods)
 - [Server Software](#server-software)
   - [Forks](#forks)
   - [Modded](#modded)
   - [Proxies](#proxies)
   - [Server Tools](#server-tools)
+  - [Server Performance](#server-performance)
 - [Tools](#tools)
   - [Development](#development)
     - [Libraries](#libraries)
@@ -28,6 +36,36 @@ Contents index, find here easily what you are looking for.
   - [Information](#information)
   - [Mod List](#mod-list)
   - [Servers List](#servers-list)
+  
+## Plugins
+
+Useful plugins for external software like bukkit, spigot, bungeecord, etc.
+
+### AntiCheat Plugins
+
+- [NoCheatPlus](https://github.com/Updated-NoCheatPlus/NoCheatPlus)
+
+### Building Plugins
+
+- [BuildersUtilities](https://github.com/Arcaniax-Development/Builders-Utilities)
+- [WorldEdit](https://github.com/enginehub/worldedit)
+
+### Library Plugins
+
+- [Citizens](https://github.com/CitizensDev/Citizens2)
+- [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI)
+- [Vault](https://github.com/MilkBowl/VaultAPI)
+
+### Permission Plugins
+
+- [BungeePerms](https://github.com/weaondara/BungeePerms)
+- [LuckPerms](https://github.com/LuckPerms/LuckPerms)
+
+### World Plugins
+
+- [Chunky](https://github.com/pop4959/Chunky)
+- [Multiverse](https://github.com/Multiverse/Multiverse-Core)
+- [WorldGuard](https://github.com/enginehub/worldguard)
 
 ## Mods
 
@@ -67,6 +105,14 @@ Modloaders allow you to modify the game using third-party tools created by the c
 Clients that are not a modification of the original vanilla but a reimplementation either in java or another language.
 
 - [Stevenarella](https://github.com/iceiix/stevenarella) Multi-protocol Minecraft-compatible client written in Rust
+
+### Performance Mods
+
+- [Krypton](https://github.com/astei/krypton)
+- [LazyDFU](https://github.com/astei/lazydfu)
+- [Lithium](https://github.com/CaffeineMC/lithium-fabric)
+- [Phosphor](https://github.com/CaffeineMC/phosphor-fabric)
+- [Sodium](https://github.com/CaffeineMC/sodium-fabric)
 
 ## Server Software
 
@@ -133,9 +179,18 @@ Tools that help us to better manage a Minecraft server.
 - [Docket Minecraft Bedrock Server](https://github.com/itzg/docker-minecraft-bedrock-server)
 - [PolyMc](https://github.com/TheEpicBlock/PolyMc) Making minecraft mods compatible with a vanilla client
 
+
+### Server Performance
+
+- [Aikar's Flags](https://aikar.co/2018/07/02/tuning-the-jvm-g1gc-garbage-collector-flags-for-minecraft/)
+- [Krusic22's Flags](https://krusic22.com/2020/03/25/higher-performance-crafting-using-jdk11-and-zgc/)
+
 ## Tools
 
 Tools of all kinds related to Minecraft
+
+- [Blockbench](https://github.com/JannisX11/blockbench)
+- [Pakkit](https://github.com/Heath123/pakkit) A WIP packet monitor for Minecraft written in Electron.
 
 ### Development
 
@@ -144,7 +199,6 @@ Specialized tools for understanding and developing game modifications.
 - [MCDev for IntelliJ](https://mcdev.io/) Plugin for IntelliJ IDEA for Minecraft mod development.
 - [Minecraft Data](https://github.com/PrismarineJS/minecraft-data) Language independent module providing minecraft data.
 - [ModCoderPack](http://www.modcoderpack.com/)
-- [Pakkit](https://github.com/Heath123/pakkit) A WIP packet monitor for Minecraft written in Electron.
 
 ### Libraries
 
