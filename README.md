@@ -90,6 +90,7 @@ Minecraft clients are direct modifications of the original game.
 - [Lunar Client](https://www.lunarclient.com/)
 - [PixelClient](https://www.mediafire.com/file/mo7pzys6699t5z0/PixelClient.zip/file)
 - [PvPLounge](https://pvplounge.com/)
+- [Feather](https://feathermc.com/)
 
 ### Mod Loaders
 
